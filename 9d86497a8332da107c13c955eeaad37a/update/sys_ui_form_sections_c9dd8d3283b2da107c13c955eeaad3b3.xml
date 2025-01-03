@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c9dd8d3283b2da107c13c955eeaad3b3" sys_domain="global" table="connection_attributes" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-03 12:14:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>55dd097a83b2da107c13c955eeaad383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="Default view">c9dd8d3283b2da107c13c955eeaad3b3</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="connection_attributes" sys_domain="global" view="Default view">95dd097a83b2da107c13c955eeaad379</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-03 12:14:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-03 12:14:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ddd097a83b2da107c13c955eeaad378</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="Default view">c9dd8d3283b2da107c13c955eeaad3b3</sys_ui_form>
+            <sys_ui_section caption="Reference Specification" display_value="Reference Specification" name="connection_attributes" sys_domain="global" view="Default view">15dd097a83b2da107c13c955eeaad373</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-03 12:14:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-03 12:14:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59dd097a83b2da107c13c955eeaad38b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="Default view">c9dd8d3283b2da107c13c955eeaad3b3</sys_ui_form>
+            <sys_ui_section caption="Choice List Specification" display_value="Choice List Specification" name="connection_attributes" sys_domain="global" view="Default view">d9dd097a83b2da107c13c955eeaad387</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-03 12:14:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-03 12:14:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5dd097a83b2da107c13c955eeaad387</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="Default view">c9dd8d3283b2da107c13c955eeaad3b3</sys_ui_form>
+            <sys_ui_section caption="Default Value" display_value="Default Value" name="connection_attributes" sys_domain="global" view="Default view">59dd097a83b2da107c13c955eeaad383</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-03 12:14:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>connection_attributes</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-03 12:14:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9dd8d3283b2da107c13c955eeaad3b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>connection_attributes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="WishList" source="x_snc_wishlist">9d86497a8332da107c13c955eeaad37a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="WishList">9d86497a8332da107c13c955eeaad37a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c9dd8d3283b2da107c13c955eeaad3b3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-03 12:14:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
